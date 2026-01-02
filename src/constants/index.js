@@ -6,3 +6,4 @@ export const navLinks = [
     { label: 'Vision' },
     { label: 'AirPods' },
 ];
+
